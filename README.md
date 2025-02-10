@@ -21,3 +21,11 @@ https://docs.google.com/spreadsheets/d/1Wa4lHZ8hjCzrsZ1KEtx9PAAprnHexlJ_/edit?us
 Отчет по результатам тестирования приложения "Shopping-list"
 
 https://drive.google.com/file/d/1CtsihHKvi0gCvKkD85Pt_UjeY_KCO6fk/view?usp=sharing
+
+Charles Proxy
+
+https://drive.google.com/file/d/1yzIOJ3K8X5-qbrsjpS8a16-HHw2nHI-1/view?usp=sharing
+
+https://drive.google.com/file/d/1xWGwJV8uPEroUgIHMHR8U5V9C1oq05nZ/view?usp=sharing
+
+https://drive.google.com/file/d/1Xcm5lO0YQLI3h2LaV392FaCxgzEDTkm0/view?usp=sharing
